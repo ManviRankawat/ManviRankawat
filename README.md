@@ -14,7 +14,7 @@ When I’m not immersed in coding, you’ll likely find me:
 ---
 
 ## 🤝 Connect with Me  
-- 📫 **Reach me at:** _manvi.rankawat@email.gwu.edu_  
+- 📫 **Reach me at:** [Email](manvi.rankawat@email.gwu.edu)  
 - 💼 **LinkedIn:** [Manvi Rankawat](https://www.linkedin.com/in/manvi-rankawat/)
 
 ---
