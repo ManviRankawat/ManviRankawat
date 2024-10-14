@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi, I'm Manvi Rankawat 👋
+Software Engineer | Technology Enthusiast | Content Creator 
+
+### About Me
+- 🌱 **Learning**: MERN Stack Development ⚡ | Open-Source Contributions 🔥
+- 💻 **Languages**: Java | C++ 
+- 🎨 **Hobbies**: Exploring new tech trends 📱, Reading 📚, and Creating artwork 💃
+- 📝 **Fun Fact**: Every challenge is an opportunity in disguise! 🎯
+
+### Connect with Me
+- 📫 Reach me at: manvi.rankawat@email.gwu.edu
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/manvi-rankawat/))
 
 <!--
 **ManviRankawat/ManviRankawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
