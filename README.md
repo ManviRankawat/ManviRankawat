@@ -9,7 +9,7 @@ Software Engineer | Technology Enthusiast | Content Creator
 
 ### Connect with Me
 - 📫 Reach me at: manvi.rankawat@email.gwu.edu
-- 💼 [LinkedIn]([(https://www.linkedin.com/in/manvi-rankawat/])
+- 💼 LinkedIn: https://www.linkedin.com/in/manvi-rankawat/
 
 <!--
 **ManviRankawat/ManviRankawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
