@@ -60,18 +60,18 @@
 ---
 # Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manvi Rankawat&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManviRankawat&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 # Manvi's GitHub Stats
 
-[![Bappy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manvi Rankawat&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Bappy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManviRankawat&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 
 ### Contribution Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Manvi Rankawat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ManviRankawat)](https://git.io/streak-stats)
 
