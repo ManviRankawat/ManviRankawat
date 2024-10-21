@@ -46,10 +46,10 @@
 ### You can also find me on:
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/manvi-rankawat/" target="_blank">
+   <a href="https://www.linkedin.com/in/manvi-rankawat/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="[https://www.youtube.com/]https://leetcode.com/u/ManviRankawat/)" target="_blank">
+   </a>
+    <a href="https://leetcode.com/u/ManviRankawat/" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
     </a>
     <a href="[https://github.com/](https://github.com/ManviRankawat)" target="_blank">
