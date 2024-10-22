@@ -2,9 +2,9 @@
 
 ## 👋 Hello World! I'm **Manvi Rankawat**  
 <h1 align="center">
-  <em>"In a world driven by technology, be the code that powers change."</em> 💡
+  <h4>"In a world driven by technology, be the code that powers change."</h4> 💡
   <br><br>
-  <img src="https://github.com/ManviRankawat/ManviRankawat/blob/main/Coding.gif" alt="Animation" width="200">
+  <img src="https://github.com/ManviRankawat/ManviRankawat/blob/main/Coding.gif" alt="Animation" width="250">
 </h1>
 
 
