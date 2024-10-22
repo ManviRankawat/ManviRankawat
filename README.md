@@ -1,8 +1,8 @@
-![Profile Views](https://komarev.com/ghpvc/?username=ManviRankawat&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=ManviRankawat&color=yellow)
 
 # 👋 Hello World! I'm **Manvi Rankawat**  
 ### _"In a world driven by technology, be the code that powers change."_ 💡
-![Animation]([./assets/animation.gif](https://dribbble.com/shots/14523057-woman-with-laptop))
+![Animation]([[./assets/animation.gif](https://dribbble.com/shots/14523057-woman-with-laptop)](https://www.google.com/imgres?q=laptop%20work%20girl%20gif&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F3873964%2Fscreenshots%2F14523057%2Fmedia%2F02a1ca5dc4e5faacfac8e754195b118c.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F14523057-woman-with-laptop&docid=-4yhAN9teQP94M&tbnid=l3Lq-xWp8bqYmM&vet=12ahUKEwjM6cjE-aKJAxXqMlkFHRKrJL8QM3oECBgQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjM6cjE-aKJAxXqMlkFHRKrJL8QM3oECBgQAA))
 ---
 
 # I have technical experience and interest in:
