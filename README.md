@@ -3,8 +3,9 @@
 <div align="center">
   <h4>"In a world driven by technology, be the code that powers change."</h4> 💡
   <br>
-  <img src="https://github.com/ManviRankawat/ManviRankawat/blob/main/Coding.gif" alt="Animation" width="280">
+  <img src="https://github.com/ManviRankawat/ManviRankawat/blob/main/Coding.gif" alt="Animation" width="300">
 </div>
+
 ---
 
 # I have technical experience and interest in:
