@@ -2,7 +2,7 @@
 
 # 👋 Hello World! I'm **Manvi Rankawat**  
 ### _"In a world driven by technology, be the code that powers change."_ 💡
-![Animation](https://github.com/ManviRankawat/ManviRankawat/blob/main/Female%20Programmer%20Developed%20Website.mp4)
+![Animation](https://github.com/ManviRankawat/ManviRankawat/blob/main/Coding.gif)
 ---
 
 # I have technical experience and interest in:
