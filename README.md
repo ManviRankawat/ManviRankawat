@@ -4,7 +4,7 @@
 <h1 align="center">
   <em>"In a world driven by technology, be the code that powers change."</em> 💡
   <br><br>
-  <img src="https://github.com/ManviRankawat/ManviRankawat/blob/main/Coding.gif" alt="Animation">
+  <img src="https://github.com/ManviRankawat/ManviRankawat/blob/main/Coding.gif" alt="Animation" width="400">
 </h1>
 
 
