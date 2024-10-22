@@ -1,13 +1,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ManviRankawat&color=yellow)
-
-## 👋 Hello World! I'm **Manvi Rankawat**  
-<h1 align="center">
+## 👋 Hello World! I'm **Manvi Rankawat**
+<div align="center">
   <h4>"In a world driven by technology, be the code that powers change."</h4> 💡
-  <br><br>
+  <br>
   <img src="https://github.com/ManviRankawat/ManviRankawat/blob/main/Coding.gif" alt="Animation" width="250">
-</h1>
-
-
+</div>
 ---
 
 # I have technical experience and interest in:
