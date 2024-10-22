@@ -1,6 +1,8 @@
+![Profile Views](https://komarev.com/ghpvc/?username=ManviRankawat&color=blue)
+
 # 👋 Hello World! I'm **Manvi Rankawat**  
 ### _"In a world driven by technology, be the code that powers change."_ 💡
-
+![Animation]([./assets/animation.gif](https://dribbble.com/shots/14523057-woman-with-laptop))
 ---
 
 # I have technical experience and interest in:
@@ -66,7 +68,7 @@
 
 # Manvi's GitHub Stats
 
-[![Bappy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManviRankawat&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Manvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManviRankawat&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
