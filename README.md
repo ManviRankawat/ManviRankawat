@@ -63,20 +63,27 @@
 </p>
 
 ---
-# Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManviRankawat&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 My GitHub Stats
 
----
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManviRankawat&layout=compact&langs_count=6" alt="Top Languages" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=ManviRankawat&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=ManviRankawat" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-# Manvi's GitHub Stats
-
-[![Manvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManviRankawat&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-
-### Contribution Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ManviRankawat)](https://git.io/streak-stats)
 
