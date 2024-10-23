@@ -60,6 +60,17 @@
   </tr>
 </table>
 
+<h3>Hobbies:</h3>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/3762/3762131.png" alt="Traveling" width="40" height="40"/><br/>Travel</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" alt="Coding" width="40" height="40"/><br/>Coding</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/4229/4229137.png" alt="Drawing" width="40" height="40"/><br/>Drawing</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/3048/3048356.png" alt="Dancing" width="40" height="40"/><br/>Dancing</td>
+  </tr>
+</table>
+
 ---
 
 ### Connect with me:
