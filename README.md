@@ -10,18 +10,15 @@
 
 # I have technical experience and interest in:
 <div align="center">
-
-  <ul style="list-style-type: none; padding-left: 0; text-align: left;">
-    <li>Machine Learning</li>
-    <li>Computer Vision</li>
-    <li>Natural Language Processing</li>
-    <li>Distributed Systems</li>
-    <li>Generative AI</li>
-    <li>Microcontrollers</li>
-    <li>Web Development</li>
-  </ul>
+  <p>Machine Learning <br> 
+     Computer Vision <br> 
+     Natural Language Processing <br> 
+     Distributed Systems <br> 
+     Generative AI <br> 
+     Microcontrollers <br> 
+     Web Development
+  </p>
 </div>
-
 ---
 
 ### Languages and Tools:
