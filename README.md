@@ -11,7 +11,7 @@
 # I have technical experience and interest in:
 <div align="center">
 
-  <ul style="list-style-position: inside; text-align: left;">
+  <ul style="list-style-type: none; padding-left: 0; text-align: left;">
     <li>Machine Learning</li>
     <li>Computer Vision</li>
     <li>Natural Language Processing</li>
