@@ -9,7 +9,7 @@
 ---
 
 # I have technical experience and interest in:
-
+<div align="center">
 - Machine Learning
 - Computer Vision
 - Natural Language Processing
@@ -17,12 +17,13 @@
 - Generative AI
 - Microcontrollers
 - WebDev
+</div>
 
 ---
 
 ### Languages and Tools:
 
-<p align="left">
+<p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
@@ -54,7 +55,7 @@
 
 ### Connect with me:
 
-<p align="left">
+<p align="center">
     <a href="https://www.linkedin.com/in/manvi-rankawat/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
