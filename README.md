@@ -39,24 +39,26 @@
 
 ---
 
-### Hobbies:
+<h3>Hobbies:</h3>
 
-<p align="left">
-    <!-- Travel icon -->
-    <img src="https://cdn-icons-png.flaticon.com/512/3762/3762131.png" alt="Traveling" width="40" height="40"/> Travel
-    <br/>
-    
-    <!-- Coding icon -->
-    <img src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" alt="Coding" width="40" height="40"/> Coding
-    <br/>
-    
-    <!-- Drawing icon -->
-    <img src="https://cdn-icons-png.flaticon.com/512/4229/4229137.png" alt="Drawing" width="40" height="40"/> Drawing
-    <br/>
-    
-    <!-- Dance icon -->
-    <img src="https://cdn-icons-png.flaticon.com/512/3048/3048356.png" alt="Dancing" width="40" height="40"/> Dancing
-</p>
+<table>
+  <tr>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/3762/3762131.png" alt="Traveling" width="40" height="40"/></td>
+    <td>Travel</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" alt="Coding" width="40" height="40"/></td>
+    <td>Coding</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/4229/4229137.png" alt="Drawing" width="40" height="40"/></td>
+    <td>Drawing</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/3048/3048356.png" alt="Dancing" width="40" height="40"/></td>
+    <td>Dancing</td>
+  </tr>
+</table>
 
 ---
 
