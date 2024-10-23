@@ -41,7 +41,23 @@
 
 ### Hobbies:
 
-Travel  Code Draw Dance
+<p align="left">
+    <!-- Travel icon -->
+    <img src="https://cdn-icons-png.flaticon.com/512/3762/3762131.png" alt="Traveling" width="40" height="40"/>
+    Travel
+
+    <!-- Coding icon -->
+    <img src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" alt="Coding" width="40" height="40"/>
+    Coding
+
+    <!-- Drawing icon -->
+    <img src="https://cdn-icons-png.flaticon.com/512/4229/4229137.png" alt="Drawing" width="40" height="40"/>
+    Drawing
+
+    <!-- Dance icon -->
+    <img src="https://cdn-icons-png.flaticon.com/512/3048/3048356.png" alt="Dancing" width="40" height="40"/>
+    Dancing
+</p>
 
 ---
 
