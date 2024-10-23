@@ -39,11 +39,18 @@
 
 ---
 
-### My Hobbies and Interests:
+### Hobbies:
 
-- Traveling
-- Drawing
-- Coding
+<p align="left">
+    <!-- Traveling icon -->
+    <img src="https://cdn-icons-png.flaticon.com/512/1046/1046875.png" alt="Traveling" width="40" height="40"/>
+    
+    <!-- Drawing icon -->
+    <img src="https://cdn-icons-png.flaticon.com/512/2907/2907097.png" alt="Drawing" width="40" height="40"/>
+    
+    <!-- Coding icon -->
+    <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="Coding" width="40" height="40"/>
+</p>
 
 ---
 
