@@ -16,7 +16,7 @@
 - Microcontrollers
 - Web Development
 
-<img align="right" src="https://github.com/ManviRankawat/ManviRankawat/blob/main/codingMe.gif" width="300" alt="GIF">
+<img align="right" src="https://github.com/ManviRankawat/ManviRankawat/blob/main/codingMe.gif" width="200" alt="GIF showing work" style="margin-top: -20px;">
 
 ---
 
