@@ -2,8 +2,9 @@
 ## 👋 Hello World! I'm **Manvi Rankawat**
 <div align="center">
   <h4>"In a world driven by technology, be the code that powers change."</h4> 
+  <img align="right" src="https://github.com/ManviRankawat/ManviRankawat/blob/main/codingMe.gif" width="200" alt="GIF">
 </div>
-<img align="right" src="https://github.com/ManviRankawat/ManviRankawat/blob/main/codingMe.gif" width="200" alt="GIF">
+
 ---
 
 # I have technical experience and interest in:
