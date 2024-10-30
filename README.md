@@ -1,25 +1,32 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ManviRankawat&color=yellow)
 ## 👋 Hello World! I'm **Manvi Rankawat**
 <div align="center">
-  <h4>"In a world driven by technology, be the code that powers change."</h4> 💡
-  <br>
-  <img src="https://github.com/ManviRankawat/ManviRankawat/blob/main/codingMe.gif" alt="Animation" width="300">
+  <h4>"In a world driven by technology, be the code that powers change."</h4> 
 </div>
 
 ---
 
-# I have technical experience and interest in:
-<div align="center">
-  <p>Machine Learning <br> 
-     Computer Vision <br> 
-     Natural Language Processing <br> 
-     Distributed Systems <br> 
-     Generative AI <br> 
-     Microcontrollers <br> 
-     Web Development
-  </p>
-</div>
-
+<!-- Table layout to align Technical Experience and GIF side by side -->
+<table>
+  <tr>
+    <!-- Technical Experience Section -->
+    <td>
+      <h3>I have technical experience and interest in:</h3>
+      <p>Machine Learning <br> 
+         Computer Vision <br> 
+         Natural Language Processing <br> 
+         Distributed Systems <br> 
+         Generative AI <br> 
+         Microcontrollers <br> 
+         Web Development
+      </p>
+    </td>
+    <!-- GIF Section -->
+    <td align="center">
+      <img src="https://github.com/ManviRankawat/ManviRankawat/blob/main/codingMe.gif" alt="Animation" width="300">
+    </td>
+  </tr>
+</table>
 ---
 
 ### Languages and Tools:
