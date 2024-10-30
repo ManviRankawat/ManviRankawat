@@ -6,8 +6,9 @@
 </div>
 
 ---
+
+## I have technical experience and interest in:
 <img align="right" src="https://github.com/ManviRankawat/ManviRankawat/blob/main/codingMe.gif" width="300" alt="GIF">
-# I have technical experience and interest in:
 
 - Machine Learning
 - Computer Vision
