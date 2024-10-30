@@ -60,21 +60,25 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/manvi-rankawat/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 10px; display: inline-block; vertical-align: middle;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
     <a href="https://leetcode.com/u/ManviRankawat/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" style="margin: 0 10px; display: inline-block; vertical-align: middle;"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
     </a>
     <a href="https://github.com/ManviRankawat" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin: 0 10px; display: inline-block; vertical-align: middle;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
     </a>
     <a href="https://www.instagram.com/manvirankawat12/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="margin: 0 10px; display: inline-block; vertical-align: middle;"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
     </a>
     <a href="https://www.facebook.com/share/FiErzTDJ4fsb25UW/?mibextid=LQQJ4d" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40" style="margin: 0 10px; display: inline-block; vertical-align: middle;"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/>
+    </a>
+    <a href="mailto:manvi.rankawat@email.gwu.edu" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="40" height="40"/>
     </a>
 </p>
+
 
 ---
 
