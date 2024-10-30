@@ -6,25 +6,17 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <h3>I have technical experience and interest in:</h3>
-      <p>
-        Machine Learning <br> 
-        Computer Vision <br> 
-        Natural Language Processing <br> 
-        Distributed Systems <br> 
-        Generative AI <br> 
-        Microcontrollers <br> 
-        Web Development
-      </p>
-    </td>
-    <td>
-      <img src="https://github.com/ManviRankawat/ManviRankawat/blob/main/codingMe.gif" width="300" alt="GIF">
-    </td>
-  </tr>
-</table>
+# I have technical experience and interest in:
+
+- Machine Learning
+- Computer Vision
+- Natural Language Processing
+- Distributed Systems
+- Generative AI
+- Microcontrollers
+- Web Development
+
+<img align="right" src="https://github.com/ManviRankawat/ManviRankawat/blob/main/codingMe.gif" width="300" alt="GIF">
 
 ---
 
