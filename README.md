@@ -7,7 +7,7 @@
 ---
 
 <!-- Flexbox layout to align Technical Experience and GIF side by side -->
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: left;">
   <!-- Technical Experience Section -->
   <div style="flex: 1; padding-right: 20px;">
     <h3>I have technical experience and interest in:</h3>
@@ -21,10 +21,11 @@
     </p>
   </div>
   <!-- GIF Section -->
-  <div style="flex: 1; text-align: center;">
+  <div style="flex: 1; text-align: right;">
     <img src="https://github.com/ManviRankawat/ManviRankawat/blob/main/codingMe.gif" alt="Animation" width="300">
   </div>
 </div>
+
 
 ---
 
