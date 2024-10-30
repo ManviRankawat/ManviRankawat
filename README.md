@@ -6,27 +6,26 @@
 
 ---
 
-<!-- Table layout to align Technical Experience and GIF side by side -->
-<table>
-  <tr>
-    <!-- Technical Experience Section -->
-    <td>
-      <h3>I have technical experience and interest in:</h3>
-      <p>Machine Learning <br> 
-         Computer Vision <br> 
-         Natural Language Processing <br> 
-         Distributed Systems <br> 
-         Generative AI <br> 
-         Microcontrollers <br> 
-         Web Development
-      </p>
-    </td>
-    <!-- GIF Section -->
-    <td align="center">
-      <img src="https://github.com/ManviRankawat/ManviRankawat/blob/main/codingMe.gif" alt="Animation" width="300">
-    </td>
-  </tr>
-</table>
+<!-- Flexbox layout to align Technical Experience and GIF side by side -->
+<div style="display: flex; align-items: center;">
+  <!-- Technical Experience Section -->
+  <div style="flex: 1; padding-right: 20px;">
+    <h3>I have technical experience and interest in:</h3>
+    <p>Machine Learning <br> 
+       Computer Vision <br> 
+       Natural Language Processing <br> 
+       Distributed Systems <br> 
+       Generative AI <br> 
+       Microcontrollers <br> 
+       Web Development
+    </p>
+  </div>
+  <!-- GIF Section -->
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github.com/ManviRankawat/ManviRankawat/blob/main/codingMe.gif" alt="Animation" width="300">
+  </div>
+</div>
+
 ---
 
 ### Languages and Tools:
