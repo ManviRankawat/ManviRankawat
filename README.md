@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=ManviRankawat&color=yellow)
+![Profile Visitors](https://komarev.com/ghpvc/?username=ManviRankawat&color=yellow)
 ## 👋 Hello World! I'm **Manvi Rankawat**
 
 <div align="center">
