@@ -77,28 +77,21 @@
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 My GitHub Profile
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManviRankawat&layout=compact&langs_count=6" alt="Top Languages" />
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManviRankawat&layout=compact&langs_count=6" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ManviRankawat&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=ManviRankawat&show_icons=true&theme=radical" alt="GitHub Stats" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=ManviRankawat" alt="GitHub Streak" />
-      </a>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=ManviRankawat" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
+
