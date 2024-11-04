@@ -8,7 +8,7 @@
 ---
 
 ## I have technical experience and interest in:
-<img align="right" src="https://github.com/ManviRankawat/ManviRankawat/blob/main/codingMe.gif" width="300" alt="GIF">
+<img align="right" src="https://github.com/ManviRankawat/ManviRankawat/blob/main/codingMe.gif" alt="GIF" style="width: 100%; max-width: 300px; height: auto;">
 
 - Machine Learning
 - Computer Vision
