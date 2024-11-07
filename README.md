@@ -93,7 +93,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=ManviRankawat" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=ManviRankawat&v=1" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
