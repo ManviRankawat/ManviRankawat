@@ -13,13 +13,13 @@
 
 
 
-- Machine Learning
-- Computer Vision
-- Natural Language Processing
-- Distributed Systems
-- Generative AI
-- Microcontrollers
-- Web Development
+ - Machine Learning
+ - Computer Vision
+ - Natural Language Processing
+ - Distributed Systems
+ - Generative AI
+ - Microcontrollers
+ - Web Development
 
 ---
 
