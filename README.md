@@ -80,20 +80,20 @@
 
 ---
 
-## 📊 My GitHub Profile
+## 📊 Profile
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManviRankawat&layout=compact&langs_count=6" alt="Top Languages" />
+      <img src="stats-images/top-langs.png" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ManviRankawat&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="stats-images/github-stats.png" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=ManviRankawat" alt="GitHub Streak" />
+      <img src="stats-images/github-streak.png" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
