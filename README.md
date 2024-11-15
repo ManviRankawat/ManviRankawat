@@ -92,7 +92,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ManviRankawat&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
+      <img src="./assets/github-streak.png" height="150" alt="GitHub Streak" />
   </tr>
 </table>
 
