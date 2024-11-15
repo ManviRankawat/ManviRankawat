@@ -92,7 +92,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-     <img src="https://img.shields.io/badge/GitHub-Streak-blueviolet?logo=github&style=for-the-badge" height="150" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ManviRankawat&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
   </tr>
 </table>
 
