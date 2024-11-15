@@ -92,7 +92,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=ManviRankawat&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />    </td>
+     <img src="https://img.shields.io/badge/GitHub-Streak-blueviolet?logo=github&style=for-the-badge" height="150" alt="GitHub Streak" />
   </tr>
 </table>
 
