@@ -93,8 +93,9 @@
   <tr>
     <td colspan="2" align="center">
       <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=ManviRankawat&hide_border=true&cache_seconds=86400&force_refresh=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=ManviRankawat&hide_border=true&cache_seconds=86400&force_refresh=true" alt="GitHub Streak" />
       </a>
+    </td>
   </tr>
 </table>
 
