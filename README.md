@@ -84,7 +84,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ManviRankawat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Stats Graph" />
+      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManviRankawat&show_icons=true&theme=radical)
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManviRankawat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages Graph" />
@@ -98,6 +98,6 @@
 </table>
 
 ###
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManviRankawat&show_icons=true&theme=radical)
+
 
 ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=ManviRankawat&theme=dark)
