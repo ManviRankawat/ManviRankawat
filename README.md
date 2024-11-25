@@ -83,21 +83,25 @@
 ## 📊 Profile
 <table>
   <tr>
+    <!-- GitHub Stats -->
     <td>
-      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManviRankawat&show_icons=true&theme=radical)
+      <img src="https://github-readme-stats.vercel.app/api?username=ManviRankawat&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
+    <!-- Top Languages -->
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManviRankawat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages Graph" />
     </td>
   </tr>
-   <tr>
-            <td colspan="2" align="center">
-              <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ManviRankawat" alt="GitHub Streak" /></a>              
-            </td>
-   </tr>
+  <tr>
+    <!-- GitHub Streak -->
+    <td colspan="2" align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=ManviRankawat&theme=radical" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ###
 
 
-![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=ManviRankawat&theme=dark)
