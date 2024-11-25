@@ -98,5 +98,6 @@
 </table>
 
 ###
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManviRankawat&show_icons=true&theme=radical)
 
 ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=ManviRankawat&theme=dark)
