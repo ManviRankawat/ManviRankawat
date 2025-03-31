@@ -6,7 +6,7 @@
 
 ---
 
-## I have technical experience and interest in:
+### I have technical experience and interest in:
 
 - Machine Learning  
 - Computer Vision  
