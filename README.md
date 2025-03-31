@@ -1,8 +1,8 @@
 ## 👋 Hello World! I'm **Manvi Rankawat**
 
-> *"In a world driven by technology, be the code that powers change."*
+*"In a world driven by technology, be the code that powers change."*
 
-<img align="right" src="https://github.com/ManviRankawat/ManviRankawat/blob/main/codingMe.gif" alt="GIF" width="300" />
+<img align="right" src="https://github.com/ManviRankawat/ManviRankawat/blob/main/codingMe.gif" alt="GIF" width="400" />
 
 ---
 
