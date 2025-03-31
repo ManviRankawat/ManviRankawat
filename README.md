@@ -8,7 +8,7 @@
 ---
 
 ## I have technical experience and interest in:
-<img align="right" src="https://github.com/ManviRankawat/ManviRankawat/blob/main/codingMe.gif" alt="GIF" style="width: 70%; max-width: 2px; height: auto;">
+<img align="right" src="https://github.com/ManviRankawat/ManviRankawat/blob/main/codingMe.gif" alt="GIF" style="width: 60%; max-width: 2px; height: auto;">
 
 
 
