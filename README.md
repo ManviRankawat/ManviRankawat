@@ -107,8 +107,9 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ManviRankawat/ManviRankawat/output/github-contribution-grid-snake.svg" />
-  
+  <img alt="snake eating my contributions" src="https://ManviRankawat.github.io/snk/github-contribution-grid-snake.svg" />
   <br/>
+</div>
+
 
 ###
